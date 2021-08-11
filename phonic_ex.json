@@ -1,0 +1,30 @@
+[
+
+
+    {"sound":"an","word":[{"kw":"ban","sample":["impose entry ban on travelers","restrictions for entry into Germany","entry ban"],"url":"https://image.shutterstock.com/image-vector/thermal-scanner-detects-incoming-passenger-260nw-1716281659.jpg"},
+                          {"kw":"ants","sample":["ants","there are ants in your home","ants on my ankle"],"url":"https://image.shutterstock.com/image-photo/ants-house-on-baseboards-wall-600w-696991528.jpg"},
+                          {"kw":"fan","sample":["fan is not rotating","portable fan","electric fan"],"url":"https://image.shutterstock.com/image-photo/portable-fan-on-white-background-600w-1724442187.jpg"}
+                        ]},
+    {"sound":"at","word":[{"kw":"water","sample":["tap water","a glass of water","drink some water"],"url":"https://image.shutterstock.com/image-photo/pouring-water-on-glass-white-600w-1724886157.jpg"},
+                          {"kw":"bat","sample":["batman","Bats are the only flying mammal","Most bats eat insects"],"url":"https://image.shutterstock.com/image-photo/tambov-russian-federation-july-29-600w-1531909679.jpg"},
+                          {"kw":"battle","sample":["battleship","battlefield","battle"],"url":"https://image.shutterstock.com/image-illustration/huge-beastman-heat-battle-fiercely-260nw-1859894176.jpg"},
+                          {"kw":"fat","sample":["she is fat","fat boy","fat girl"],"url":"https://image.shutterstock.com/image-photo/fat-woman-hand-holding-excessive-600w-1498418636.jpg"},
+                          {"kw":"hat","sample":["hat","hat","hat"],"url":"https://image.shutterstock.com/image-vector/hats-headgears-stylish-summer-male-600w-1686672943.jpg"},
+                          {"kw":"rat","sample":["Rats are having some cheese","rats","rat"],"url":"https://image.shutterstock.com/image-vector/cute-brown-rat-various-poses-600w-605940695.jpg"}
+                        ]},
+    {"sound":"ad","word":[{"kw":"had","sample":["had","have","having"],"url":""},
+                          {"kw":"mad","sample":["she is mad at you","i am mad","angry"],"url":"https://image.shutterstock.com/image-photo/annoyed-angry-young-woman-mad-600w-1289545033.jpg"}
+                        ]},
+    {"sound":"am","word":[{"kw":"am","sample":["i am a girl","i am six years old","i am a student"],"url":""},
+                            {"kw":"Sam","sample":["he is Sam","she is Sam","Sammy"],"url":""},
+	                        {"kw":"ram","sample":["Male sheep are called rams","The horns of the ram are weapons","A male sheep or goat is called a ram"],"url":"https://i.pinimg.com/originals/02/fb/9c/02fb9c3dc7cf83f61b9ffd71ddbf1f93.jpg"},
+                            {"kw":"ham","sample":["i am eating my ham","i am eating ham and cheese","ham and cheese burger"],"url":"https://image.shutterstock.com/image-photo/sliced-ham-on-white-backgroundfresh-600w-1109532236.jpg"}
+                          ]},       
+
+    {"sound":"en","word":[{"kw":"ten","sample":["ten","10","10"],"url":""},
+                            {"kw":"men","sample":["they are men","firemen","supermen"],"url":""},
+	                        {"kw":"hen","sample":["hen","female chicken","female checken"],"url":""},
+                            {"kw":"cen","sample":["censor","central","center"],"url":""}
+                          ]}
+
+]
