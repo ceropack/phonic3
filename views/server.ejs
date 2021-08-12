@@ -77,10 +77,7 @@
 
 //https://kevin10410.github.io/Javascript30/23%20-%20Speech%20Synthesis/index-START.html         
 //current en-US
-console.log("voicesArr[0]",voicesArr[0].name);
-         console.log("voicesArr[2]",voicesArr[2].name);
-         console.log("voicesArr[5]",voicesArr[5].name);
-         console.log("voicesArr[6]",voicesArr[6].name);
+        console.log("voice no is :",msg.voices);
    
          speechSynthesis.speak(msg);
          $(this).css({"font-variant": "large-caps", "font-size": "200%", "color": "red"});
@@ -97,9 +94,9 @@ console.log("voicesArr[0]",voicesArr[0].name);
 
          msg.text = text;
          msg.lang = 'en-US';
-         msg.rate = 0.6;
+         msg.rate = 0.8;
          msg.voices = voicesArr[5];
-         console.log("voicesArr[6]",voicesArr[6].name);
+         console.log("voice no is :",msg.voices);
          speechSynthesis.speak(msg);
     
        })
